@@ -325,7 +325,7 @@
         <version.org.glassfish.jakarta.el>3.0.2</version.org.glassfish.jakarta.el>
         <version.org.glassfish.javax.enterprise.concurrent>1.0</version.org.glassfish.javax.enterprise.concurrent>
         <version.org.glassfish.soteria>1.0</version.org.glassfish.soteria>
-        <version.org.hibernate>5.3.10.Final</version.org.hibernate>
+        <version.org.hibernate>5.4.24.Final</version.org.hibernate>
         <version.org.hibernate.commons.annotations>5.0.5.Final</version.org.hibernate.commons.annotations>
         <version.org.hibernate.search>5.10.5.Final</version.org.hibernate.search>
         <version.org.hibernate.validator>6.0.16.Final</version.org.hibernate.validator>
